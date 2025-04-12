@@ -1,8 +1,8 @@
-Digit Recognizer Application
-Overview
+# Digit Recognizer Application
+# Overview
 This application is a simple digit recognizer built using Python's Tkinter library for the graphical user interface (GUI) and a Convolutional Neural Network (CNN) model trained to recognize handwritten digits (0-9). Users can draw digits on a canvas, and the application will predict the digit using the trained model.
 
-Features
+# Features
 Draw digits on a canvas using the mouse.
 Predict the drawn digit using a pre-trained CNN model.
 Display the predicted digit and the confidence level in a message box.
